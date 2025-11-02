@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class VehicelRetnalSystem {
-public static final String result = "\u001B[33m";   //red for X
+public static final String result = "\u001B[33m";   
 public static final String defultColor = "\u001B[0m";
 public int non_static_int = 1;
 
@@ -75,3 +75,4 @@ public static Vehicel createCar()throws Exception{
 
     }
 }
+
